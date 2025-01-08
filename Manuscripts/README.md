@@ -185,5 +185,5 @@ Cite this work. Kawchak K. LMM Spectrometric Determination of an Organic Compoun
 
 Cite this work. Kawchak K. LMM Chemical Research with Document Retrieval. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-p91gm This content is a preprint and has not been peer-reviewed. https://doi.org/10.26434/chemrxiv-2024-p91gm
 
-## Drug Synthesis Generative AI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13754637.svg)](https://doi.org/10.5281/zenodo.13754637)
-The Generative Artificial Intelligence Software Repository for Drug Production.
+## New AI Drug Discovery [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13754637.svg)](https://doi.org/10.5281/zenodo.13754637)
+LLM Drug Discovery Applications
