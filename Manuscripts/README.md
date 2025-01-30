@@ -19,7 +19,7 @@
 [Manuscript](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf) 
 
 
-Reproduce these results. Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.13273141 This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525. [GitHub link to file](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf). [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+Reproduce these results. Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.13273141 This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525. [GitHub link to file](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf). [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) [Supplementary Files](https://github.com/kevinkawchak/New-AI-Drug-Discovery/tree/main/Manuscripts/CDS-Bevacizumab-LLMs)
 
 
 ---
