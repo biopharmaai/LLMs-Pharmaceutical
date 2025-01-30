@@ -1,4 +1,28 @@
+<div align="center">
+  <p>Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs</p> 
+<div align="center">
 
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>January 27, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+</div>
+
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An exhaustive study was needed to test the limits of leading Large Language Models (LLMs) using numerous real-world clinical trial outcomes. It was also necessary to provide extensive hallucination studies based on both extracting main points and providing novel AI clinical decision support. Here, 100 Bevacizumab cancer therapy articles representing over 900K words were summarized by the 3.5 Sonnet model into 49K words, which completed a detailed and complex problem of several cancer and study types to press the capabilities of the ChatGPT o1 reasoning model. Report summaries in general followed an effective format, with guardrails to de-identify patient information and numerical data sources attributions to ground the output to the input. The main takeaway was that both LLMs typically remained in-context with the input data when more structured prompts were used, while precise quotations and author name citations were less prominent. These errors were likely due to LLM pressure towards achieving coherence vs. exact recall based on manufacturer inference-time compute settings. Overall, ChatGPT o1 provided state-of-the-art evidence-based Bevacizumab insights regarding clinical efficacy across indications, dosing recommendations, combination therapies, and biomarker-driven selections.
+  
+<div align="left">
+  
+[Manuscript](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf) 
+
+
+Reproduce these results. Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.13273141 This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525. [GitHub link to file](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf). 
+
+
+---
 
 
 
