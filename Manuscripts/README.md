@@ -3,6 +3,36 @@
 <div align="center">
 
 <div align="center">
+  <p>CEO Kevin Kawchak</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>February 2, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+</div>
+
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BREAKING: Exact Recall Milestone for Challenging Clinical Decision Support Task. This update to the full January 27, 2025 study significantly improves on Standard 2a results regarding a reasoning Large Language Model’s ability to provide exact recall of author citations and quotations on a comprehensive input [1]. 100 Bevacizumab cancer therapy articles representing over 900K words were previously summarized into 100 reports totaling 49K words, and have now been analyzed by Google Gemini to yield a more accurate clinical decision support (CDS) study. The primarily limitation of the model was less advanced reasoning ability versus current OpenAI o1 and o3-mini models. The relevance of highly accurate quotations and citations is that clinical researchers require consistent and verifiable information along with LLM contextual awareness of clinical studies with associated speed advantages.
+  
+<div align="left">
+  
+[Manuscript](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Gemini%20Update%20Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf) 
+[Full Study](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf)
+
+Reproduce these results. Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.13273141 This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525. [GitHub link to file](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Gemini%20Update%20Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf). [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) [Supplementary Files](https://github.com/kevinkawchak/New-AI-Drug-Discovery/tree/main/Manuscripts/CDS-Bevacizumab-LLMs)
+
+
+---
+
+
+
+
+
+
+<div align="center">
+  <p>Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs</p> 
+<div align="center">
+
+<div align="center">
   <p>Kevin Kawchak</p>
   <p>Chief Executive Officer</p>
   <p>ChemicalQDevice</p>
