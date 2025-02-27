@@ -271,6 +271,5 @@ Cite this work. Kawchak K. LMM Spectrometric Determination of an Organic Compoun
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66b88430c9c6a5c07ae26635), [Seminar](https://youtu.be/7YWmHz9QjjM)
 
 Cite this work. Kawchak K. LMM Chemical Research with Document Retrieval. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-p91gm This content is a preprint and has not been peer-reviewed. https://doi.org/10.26434/chemrxiv-2024-p91gm
-
-## New AI Drug Discovery &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14792465.svg)](https://doi.org/10.5281/zenodo.14792465)
+## New AI Drug Discovery &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14939375.svg)](https://doi.org/10.5281/zenodo.14939375)
 LLM Drug Discovery Applications
