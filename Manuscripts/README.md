@@ -1,4 +1,37 @@
 <div align="center">
+  <p>Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning</p> 
+<div align="center">
+
+<div align="center">
+  <p>CEO Kevin Kawchak</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>February 25, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+</div>
+
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expenses related to monoclonal antibody drugs worldwide and cancer clinical studies must be reduced in order to increase pharmaceutical industry efficiency. These financial opportunities can be assisted using state-of-the-art Large Language Models (LLMs) for focused report generation and advanced reasoning of solutions and forecasts that are based on authors’ original findings. Here, Claude 3.5 Sonnet utilized 45 articles totaling approximately 357,000 words to effectively generate 45 reports. OpenAI ChatGPT o3-mini processed 15 of the reports to obtain comprehensive monoclonal antibody (mAb) cost solutions and financial forecasts. This included a financial recommendation of mAb biosimilars for a 55.2 percent price per dose decrease vs. a bevacizumab biologic due to Japan financial incentives, as reported by Itoshima H. et al. The 30 additional reports were based on cancer clinical trial cost-effectiveness studies, with ChatGPT o3-mini reasoning to produce tables regarding economic strategies and projections. This included a "Total drug cost avoidance of "$92,662,609" over 10 years" when sponsored clinical trial participation was employed for solid tumors using various mAb therapies, as detailed by Carreras M. et al. 2024. The primary advantages of this comprehensive approach were 1) Efficient report generations by 3.5 Sonnet of nearly 25,000 words in 20 minutes, 2) ChatGPT o3-mini’s linear dependency prompt structure reduced narrative drift with structured outputs in less than 5 minutes, and 3) Ethical AI principles were strengthened: financial data was limited by rigorous prompts, yielding outputs that were highly traceable to source data using either LLM, as opposed to relying on the models’ training data.
+  
+<div align="left">
+  
+[Manuscript](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/Cost-Containment-mAb-Clinical-LLMs/Cost_containment_of_global_monoclonal_antibody_drugs_and_cancer_clinical_trials_via_LLM_focused_reasoning.pdf) 
+
+Economic strength starts with mindful spending. Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.13273141. This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525.
+[CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) [Supplementary Files](https://github.com/kevinkawchak/New-AI-Drug-Discovery/tree/main/Manuscripts/Cost-Containment-mAb-Clinical-LLMs)
+
+
+---
+
+
+
+
+
+
+
+
+
+<div align="center">
   <p>Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs</p> 
 <div align="center">
 
