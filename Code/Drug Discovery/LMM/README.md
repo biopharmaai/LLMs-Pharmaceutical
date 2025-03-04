@@ -27,5 +27,5 @@ August 01, 2024
 
 ---
 
-## Drug Synthesis Generative AI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968133.svg)](https://doi.org/10.5281/zenodo.14968133)
-The Generative Artificial Intelligence Software Repository for Drug Synthesis.
+## New AI Drug Discovery &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13273141.svg)](https://doi.org/10.5281/zenodo.13273141)
+LLM Drug Discovery Applications
