@@ -14,25 +14,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expenses related to monoclonal antibody drugs worldwide and cancer clinical studies must be reduced in order to increase pharmaceutical industry efficiency. These financial opportunities can be assisted using state-of-the-art Large Language Models (LLMs) for focused report generation and advanced reasoning of solutions and forecasts that are based on authors’ original findings. Here, Claude 3.5 Sonnet utilized 45 articles totaling approximately 357,000 words to effectively generate 45 reports. OpenAI ChatGPT o3-mini processed 15 of the reports to obtain comprehensive monoclonal antibody (mAb) cost solutions and financial forecasts. This included a financial recommendation of mAb biosimilars for a 55.2 percent price per dose decrease vs. a bevacizumab biologic due to Japan financial incentives, as reported by Itoshima H. et al. The 30 additional reports were based on cancer clinical trial cost-effectiveness studies, with ChatGPT o3-mini reasoning to produce tables regarding economic strategies and projections. This included a "Total drug cost avoidance of "$92,662,609" over 10 years" when sponsored clinical trial participation was employed for solid tumors using various mAb therapies, as detailed by Carreras M. et al. 2024. The primary advantages of this comprehensive approach were 1) Efficient report generations by 3.5 Sonnet of nearly 25,000 words in 20 minutes, 2) ChatGPT o3-mini’s linear dependency prompt structure reduced narrative drift with structured outputs in less than 5 minutes, and 3) Ethical AI principles were strengthened: financial data was limited by rigorous prompts, yielding outputs that were highly traceable to source data using either LLM, as opposed to relying on the models’ training data.
   
 <div align="left">
+
+<br>
   
-[Manuscript](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/Cost-Containment-mAb-Clinical-LLMs/Cost_containment_of_global_monoclonal_antibody_drugs_and_cancer_clinical_trials_via_LLM_focused_reasoning.pdf) 
+Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.14968404 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
 
-Economic strength starts with mindful spending. Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.13273141. This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525.
-[CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) [Supplementary Files](https://github.com/kevinkawchak/New-AI-Drug-Discovery/tree/main/Manuscripts/Cost-Containment-mAb-Clinical-LLMs)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968404.svg)](https://doi.org/10.5281/zenodo.14968404)
 
 ---
 
 
-
-
-
-
-
-
-
 <div align="center">
-  <p>Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs</p> 
+  <p>Gemini Update Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs</p> 
 <div align="center">
 
 <div align="center">
@@ -47,11 +40,13 @@ Economic strength starts with mindful spending. Kawchak K. Cost containment of 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BREAKING: Exact Recall Milestone for Challenging Clinical Decision Support Task. This update to the full January 27, 2025 study significantly improves on Standard 2a results regarding a reasoning Large Language Model’s ability to provide exact recall of author citations and quotations on a comprehensive input [1]. 100 Bevacizumab cancer therapy articles representing over 900K words were previously summarized into 100 reports totaling 49K words, and have now been analyzed by Google Gemini to yield a more accurate clinical decision support (CDS) study. The primarily limitation of the model was less advanced reasoning ability versus current OpenAI o1 and o3-mini models. The relevance of highly accurate quotations and citations is that clinical researchers require consistent and verifiable information along with LLM contextual awareness of clinical studies with associated speed advantages.
   
 <div align="left">
-  
-[Manuscript](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Gemini%20Update%20Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf) 
-[Full Study](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf)
 
-Reproduce these results. Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.13273141 This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525. [GitHub link to file](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Gemini%20Update%20Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf). [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) [Supplementary Files](https://github.com/kevinkawchak/New-AI-Drug-Discovery/tree/main/Manuscripts/CDS-Bevacizumab-LLMs)
+<br>
+  
+Kawchak K. Gemini Update Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968289 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International. [Full Study](https://doi.org/10.5281/zenodo.14968404)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968289.svg)](https://doi.org/10.5281/zenodo.14968289)
+
 
 
 ---
@@ -78,11 +73,14 @@ Reproduce these results. Kawchak K. Clinical decision support based on Bevacizu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An exhaustive study was needed to test the limits of leading Large Language Models (LLMs) using numerous real-world clinical trial outcomes. It was also necessary to provide extensive hallucination studies based on both extracting main points and providing novel AI clinical decision support. Here, 100 Bevacizumab cancer therapy articles representing over 900K words were summarized by the 3.5 Sonnet model into 49K words, which completed a detailed and complex problem of several cancer and study types to press the capabilities of the ChatGPT o1 reasoning model. Report summaries in general followed an effective format, with guardrails to de-identify patient information and numerical data sources attributions to ground the output to the input. The main takeaway was that both LLMs typically remained in-context with the input data when more structured prompts were used, while precise quotations and author name citations were less prominent. These errors were likely due to LLM pressure towards achieving coherence vs. exact recall based on manufacturer inference-time compute settings. Overall, ChatGPT o1 provided state-of-the-art evidence-based Bevacizumab insights regarding clinical efficacy across indications, dosing recommendations, combination therapies, and biomarker-driven selections.
   
 <div align="left">
+
+<br>
   
-[Manuscript](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf) 
+Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968162 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968162.svg)](https://doi.org/10.5281/zenodo.14968162)
+  
 
-Reproduce these results. Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.13273141 This content is a preprint and has not been peer-reviewed. https://zenodo.org/records/14774525. [GitHub link to file](https://github.com/kevinkawchak/New-AI-Drug-Discovery/blob/main/Manuscripts/CDS-Bevacizumab-LLMs/Clinical%20decision%20support%20based%20on%20Bevacizumab%20cancer%20trials%20and%20pushing%20the%20limitations%20of%20advanced%20LLMs.pdf). [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) [Supplementary Files](https://github.com/kevinkawchak/New-AI-Drug-Discovery/tree/main/Manuscripts/CDS-Bevacizumab-LLMs)
 
 
 ---
@@ -107,10 +105,16 @@ Reproduce these results. Kawchak K. Clinical decision support based on Bevacizu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solving cancer mechanisms is challenging due to the complexity of the disease integrated with many approaches that researchers take. In this study, information retrieval was performed on 40 oncological papers to obtain authors' methods regarding the tumor immune microenvironment (TIME) or organ-specific research. 20 TIME summaries were combined and analyzed to yield valuable insights regarding how research based papers compliment information from review papers using Large Language Model (LLM) in-context comparisons, followed by code generation to illustrate each of the authors' methods in a knowledge graph. Next, the 20 combined organ-specific emerging papers impacting historical papers was obtained to serve as a source of data to update a mechanism by Zhang, Y., et al., which was further translated into code by the LLM. The new signaling pathway incorporated four additional authors' area of cancer research followed by the benefit they could have on the original Zhang, Y., et al. pathway. The 40 papers in the study represented over 600,000 words which were focused to specific areas totaling approximately 17,000 words represented by detailed and reproducible reports by Clau-3Opus. ChatGPT o1 provided advanced reasoning based on these authors' methods with extensive correlations and citations. Python or LaTeX code generated by ChatGPT o1 added methods to visualize Conversational AI findings to better understand the intricate nature of cancer research.
   
 <div align="left">
-  
-[Manuscript](https://www.biorxiv.org/content/10.1101/2024.12.28.630597v1) 
 
-Cite this work. Kawchak K. Cancer vs. Conversational Artificial Intelligence. bioRxiv. 2024; doi:10.1101/2024.12.28.630597 This content is a preprint and has not been peer-reviewed. https://www.biorxiv.org/content/10.1101/2024.12.28.630597v1
+<br>
+  
+Kawchak K. Cancer vs. Conversational Artificial Intelligence. bioRxiv. 2024; doi:10.1101/2024.12.28.630597 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+
+[![DOI](https://zenodo.org/badge/DOI/10.1101/2024.12.28.630597.svg)](https://doi.org/10.1101/2024.12.28.630597)
+
+
+
+
 
 ---
 
