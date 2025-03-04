@@ -120,7 +120,6 @@ Kawchak K. Cancer vs. Conversational Artificial Intelligence. bioRxiv. 2024; doi
 
 
 
-
 <div align="center">
   <p>mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations</p> 
 <div align="center">
@@ -138,10 +137,16 @@ Kawchak K. Cancer vs. Conversational Artificial Intelligence. bioRxiv. 2024; doi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bioprocess engineering has incorporated effective AI applications in recent years that consist of traditional approaches to training models on relevant data to then analyze and predict new and unseen data. The missing component has been the ability to process mixed data from an assortment of dissimilar information sources with high contextual awareness to inform the Human-AI team on how LLMs and other authors' methods will further improve performance. Here, real-time web search or document retrieval methods with a max speed multiplier of over 600x by 3.5 Sonnet were obtained vs. the manuscript author regarding monoclonal antibody (mAb) bioprocess engineering kinetics across several models. ChatGPT-4o with an average score of 9/10 was the leader in quality for this task with several detailed reports that were obtained using document search addressing a paper's specific weaknesses being improved with LLMs or two other author's methods. This protocol was applied systematically for each of the other two papers, supported by the other two relevant bioprocess papers. o1-preview's advanced reasoning set a new standard over five other models in processing either 136 extracellular or 101 intracellular metabolite tables, incorporating the analysis of 12 additional paper summaries across two prompts with two table revisions. For extracellular metabolites, o1-preview generated an 18 metabolite table including all metabolite forecasts that were expected to be breakthroughs due to future integration of a LLM or other author's recent methods. The model supported its forecasts with interpretable author citations and quotations for breakthrough metabolites, along with lists of author specific and metabolite specific insights that influenced its conclusions. For intracellular metabolites, o1-preview provided a full 101 metabolite table, matching the number of entries from the original Sukwattananipaat, P., et al. table, including confirmations for each metabolite regarding whether each forecasted value was expected to be a breakthrough. Overall, this work was represented by numerous speed advantages, literature insights to address paper weaknesses, and competent o1-preview in-context table analysis with supporting evidence from leading articles represented by two 9.5/10 scores to lead the first conversational AI mAb bioprocess engineering revolution.
   
 <div align="left">
-  
-[Manuscript](https://doi.org/10.26434/chemrxiv-2024-jzbj0), [Seminar](https://www.youtube.com/watch?v=KDwJY3BGjEE&t=1s)   
 
-Cite this work. Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed. https://doi.org/10.26434/chemrxiv-2024-jzbj0
+<br>
+  
+Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+
+[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-jzbj0.svg)](https://doi.org/10.26434/chemrxiv-2024-jzbj0)
+
+
+
+
 
 ---
 
@@ -167,9 +172,16 @@ Cite this work. Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts
 
 <div align="left">
 
-[Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/671dc78d1fb27ce124b81d22), [Seminar](https://www.youtube.com/watch?v=h0znvPPgdCw)  
+<br>
+  
+Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-3m7m1 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
 
-Cite this work. Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-3m7m1 This content is a preprint and has not been peer-reviewed. https://doi.org/10.26434/chemrxiv-2024-3m7m1
+[![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-3m7m1.svg)](https://doi.org/10.26434/chemrxiv-2024-3m7m1)
+
+
+
+
+
 
 ---
 
