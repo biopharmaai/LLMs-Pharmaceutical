@@ -308,9 +308,9 @@ Kawchak K. LMM Chemical Research with Document Retrieval. ChemRxiv. 2024; doi:10
 [![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-p91gm.svg)](https://doi.org/10.26434/chemrxiv-2024-p91gm)
 
 
-
-
 ---
+
+
 
 ## New AI Drug Discovery &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14947949.svg)](https://doi.org/10.5281/zenodo.14947949)
 LLM Drug Discovery Applications
