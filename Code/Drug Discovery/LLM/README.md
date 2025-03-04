@@ -1,4 +1,3 @@
-## FOR IMMEDIATE RELEASE | [PDF Download](https://drive.google.com/file/d/14Rl9lQuEmRtJfhuWaRo8ezH6dMDNpfdN/view?usp=sharing)
 
 
 ### Large Language Models for Early Phase GenAI Drug Discovery
@@ -61,6 +60,9 @@ Results overview:
 GPT 4o produced the most consistent and detailed high quality generations. Llama 3 70B produced quality results and was significantly faster than GPT 4o due to its smaller size running on accelerated hardware. Mixtral 8x7B had less favorable results, but was the fastest model tested due usizing a portion of its parameters. GPT 3.5 Turbo, and an agentic chemical workflow with 18 tools from literature produced the lowest quality results, with the latter having functionality limited to specific questions. The two judges consistently and reliably ranked up to 9 detailed responses containing thousands of words at a time while effectively understanding high levels of context. The significance of the study is that high performance was acheived in obtaining a variety of cancer drug discovery syntheses to improve decisions prior to wet lab experiments using readily accessible LLMs. 
 
 July 10, 2024
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14967943.svg)](https://doi.org/10.5281/zenodo.14967943)
 
 ## Drug Synthesis Generative AI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13754637.svg)](https://doi.org/10.5281/zenodo.13754637)
 The Generative Artificial Intelligence Software Repository for Drug Synthesis.
