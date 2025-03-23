@@ -23,8 +23,7 @@ Kawchak K. Autonomous LLM Agent and scalable Reasoning LLM for generating cancer
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15072843.svg)](https://doi.org/10.5281/zenodo.15072843)
 
 
-
 ---
 
-## New AI Drug Discovery &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13273141.svg)](https://doi.org/10.5281/zenodo.13273141)
-LLM Drug Discovery Applications
+## LLMs-Pharmaceutical &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13273141.svg)](https://doi.org/10.5281/zenodo.13273141)
+AI for Cancer Drug Industry
