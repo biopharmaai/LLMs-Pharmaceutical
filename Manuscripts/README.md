@@ -1,4 +1,32 @@
 <div align="center">
+  <p>Autonomous LLM Agent and scalable Reasoning LLM for generating cancer drug industry cost solutions</p> 
+<div align="center">
+
+<div align="center">
+  <p>CEO Kevin Kawchak</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>March 23, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+</div>
+
+<div align="left">
+Every once in a while, a new artificial intelligence technology is released that significantly improves research utility and results. This ’deep research’ tool released by OpenAI in February 2025 is a Large Language Model (LLM) web agent that autonomously queries sites such as PubMed Central (PMC), and generates high quality summaries with verifiable citations. A February 2025 article by Haman M. et al. reported deep research advantages in "analyzing 37 sources-35 of which were found on the PubMed website" using the OpenAI o3 model. Here, ChatGPT 4.5 Deep research summaries regarding five pharmaceutical industry financial categories were found to be 100% in-context with PMC articles, and averaged 1,400 words in 10 minutes with minor issues. Also impressive was the processing of these summaries by the Claude 3.7 Sonnet Extended reasoning model to produce a structured 1,900 word 37 citation report containing detailed economic solutions, which were supported by 6 paragraphs of key insights collaborating multiple author quotations in approx. one minute. In addition, the Claude model produced eleven professional images based on USD or ROI trends, anomalies, and forecasts in three Python scripts. The Claude model possessed an output length that scaled by 3.2x for the report and 6x for code generations vs. the manufacturer’s previous model, was 100% in-context with source data, and included interpretable reasoning summaries. The outputs from ChatGPT 4.5 Deep research served as inputs to 3.7 Sonnet Extended in mitigating model bias amplification that can occur when using results within a single software manufacturer. For transparency, comprehensive generation traceability analyses were conducted for the five summaries, the financial solutions report, and the eleven Python diagrams.
+
+  
+<div align="left">
+
+<br>
+  
+Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.14968404 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968404.svg)](https://doi.org/10.5281/zenodo.14968404)
+
+---
+
+
+
+<div align="center">
   <p>Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning</p> 
 <div align="center">
 
@@ -17,7 +45,7 @@ Expenses related to monoclonal antibody drugs worldwide and cancer clinical stud
 
 <br>
   
-Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.14968404 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clinical trials via LLM focused reasoning. Zenodo. 2025; doi:10.5281/zenodo.14968404 This content is a preprint and has not been peer-reviewed. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968404.svg)](https://doi.org/10.5281/zenodo.14968404)
 
@@ -43,7 +71,7 @@ BREAKING: Exact Recall Milestone for Challenging Clinical Decision Support Task.
 
 <br>
   
-Kawchak K. Gemini Update Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968289 This content is a report and has not been peer-reviewed. Creative Commons Attribution 4.0 International. [Full Study](https://doi.org/10.5281/zenodo.14968162)
+Kawchak K. Gemini Update Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968289 This content is a report and has not been peer-reviewed. [Full Study](https://doi.org/10.5281/zenodo.14968162)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968289.svg)](https://doi.org/10.5281/zenodo.14968289)
 
@@ -76,7 +104,7 @@ An exhaustive study was needed to test the limits of leading Large Language Mode
 
 <br>
   
-Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968162 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+Kawchak K. Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968162 This content is a preprint and has not been peer-reviewed. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968162.svg)](https://doi.org/10.5281/zenodo.14968162)
   
@@ -108,7 +136,7 @@ Solving cancer mechanisms is challenging due to the complexity of the disease in
 
 <br>
   
-Kawchak K. Cancer vs. Conversational Artificial Intelligence. bioRxiv. 2024; doi:10.1101/2024.12.28.630597 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+Kawchak K. Cancer vs. Conversational Artificial Intelligence. bioRxiv. 2024; doi:10.1101/2024.12.28.630597 This content is a preprint and has not been peer-reviewed. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.1101/2024.12.28.630597.svg)](https://doi.org/10.1101/2024.12.28.630597)
 
@@ -140,7 +168,7 @@ Bioprocess engineering has incorporated effective AI applications in recent year
 
 <br>
   
-Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-jzbj0.svg)](https://doi.org/10.26434/chemrxiv-2024-jzbj0)
 
@@ -174,7 +202,7 @@ Part A featured the individual analysis of 5 recent mAb production papers, which
 
 <br>
   
-Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-3m7m1 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-3m7m1 This content is a preprint and has not been peer-reviewed. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-3m7m1.svg)](https://doi.org/10.26434/chemrxiv-2024-3m7m1)
 
@@ -182,10 +210,7 @@ Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Convers
 
 
 
-
 ---
-
-
 
 
 
@@ -237,7 +262,7 @@ Large Multimodal Models (LMMs) possess the ability to analyze chemical spectra o
 
 <br>
   
-Kawchak K. High Dimensional and Complex Spectrometric Data Analysis of an Organic Compound using Large Multimodal Models and Chained Outputs. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-06gf1 This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+Kawchak K. High Dimensional and Complex Spectrometric Data Analysis of an Organic Compound using Large Multimodal Models and Chained Outputs. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-06gf1 This content is a preprint and has not been peer-reviewed. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-06gf1.svg)](https://doi.org/10.26434/chemrxiv-2024-06gf1)
 
@@ -270,7 +295,7 @@ Many machine learning models used in academia and industry that identify organic
 
 <br>
   
-Kawchak K. LMM Spectrometric Determination of an Organic Compound. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-qtnkj This content is a preprint and has not been peer-reviewed. Creative Commons Attribution 4.0 International.
+Kawchak K. LMM Spectrometric Determination of an Organic Compound. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-qtnkj This content is a preprint and has not been peer-reviewed. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-qtnkj.svg)](https://doi.org/10.26434/chemrxiv-2024-qtnkj)
 
@@ -303,7 +328,7 @@ Chemical research is more effectively progressed using Large Multimodal Models (
 
 <br>
   
-Kawchak K. LMM Chemical Research with Document Retrieval. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-p91gm This content is a preprint and has not been peer-reviewed.  Creative Commons Attribution 4.0 International.
+Kawchak K. LMM Chemical Research with Document Retrieval. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-p91gm This content is a preprint and has not been peer-reviewed.  
 
 [![DOI](https://zenodo.org/badge/DOI/10.26434/chemrxiv-2024-p91gm.svg)](https://doi.org/10.26434/chemrxiv-2024-p91gm)
 
