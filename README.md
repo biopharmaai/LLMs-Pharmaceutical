@@ -1,9 +1,9 @@
 ## AI for Cancer Drug Industry
 
  
-ChemicalQDevice innovates new conversational AI drug industry applications regarding scalable cancer drug industry cost solutions, drug cost containment, clinical decision support, cancer signaling pathways, bioprocess engineering, biosynthesis, characterization, or drug synthesis. 
+ChemicalQDevice innovates new conversational AI drug industry applications regarding scalable cancer drug industry cost solutions, drug cost containment, clinical decision support, cancer signaling pathways, bioprocess engineering, biosynthesis, characterization, and drug synthesis. 
 
-OpenAI, Anthropic, Gemini, or xAI direct chat proprietary software are utilized to generate LLM reports and propose detailed solutions. AI governance is employed with relevant software implementations, model bias amplification mitigation, and generation traceability analyses. 
+OpenAI, Anthropic, Gemini, and xAI direct chat proprietary software are utilized to generate LLM reports and propose detailed solutions. AI governance is employed with relevant software implementations, model bias amplification mitigation, and generation traceability analyses. 
 
   
 
