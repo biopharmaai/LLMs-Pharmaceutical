@@ -84,35 +84,6 @@ Kawchak K. Cost containment of global monoclonal antibody drugs and cancer clini
 ---
 
 
-<div align="center">
-  <p>Gemini Update Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs</p> 
-<div align="center">
-
-<div align="center">
-  <p>Kevin Kawchak</p>
-  <p>Chief Executive Officer</p>
-  <p>ChemicalQDevice</p>
-  <p>San Diego, CA</p>
-  <p>February 2, 2025</p>
-  <p>kevink@chemicalqdevice.com</p>
-</div>
-
-<div align="left">
-BREAKING: Exact Recall Milestone for Challenging Clinical Decision Support Task. This update to the full January 27, 2025 study significantly improves on Standard 2a results regarding a reasoning Large Language Model’s ability to provide exact recall of author citations and quotations on a comprehensive input [1]. 100 Bevacizumab cancer therapy articles representing over 900K words were previously summarized into 100 reports totaling 49K words, and have now been analyzed by Google Gemini to yield a more accurate clinical decision support (CDS) study. The primarily limitation of the model was less advanced reasoning ability versus current OpenAI o1 and o3-mini models. The relevance of highly accurate quotations and citations is that clinical researchers require consistent and verifiable information along with LLM contextual awareness of clinical studies with associated speed advantages.
-  
-<div align="left">
-
-<br>
-  
-Kawchak K. Gemini Update Clinical decision support based on Bevacizumab cancer trials and pushing the limitations of advanced LLMs. Zenodo. 2025; doi:10.5281/zenodo.14968289 This content is a report and has not been peer-reviewed. [Full Study](https://doi.org/10.5281/zenodo.14968162)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14968289.svg)](https://doi.org/10.5281/zenodo.14968289)
-
-
-
----
-
-
 
 
 
