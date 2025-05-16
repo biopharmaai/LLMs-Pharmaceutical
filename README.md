@@ -1,11 +1,8 @@
-## AI for Cancer Drug Industry
+## AI cancer drug clinical trial analysis
 
  
-ChemicalQDevice innovates novel conversational AI applications regarding cancer drug clinical trial studies, clinical decision support, cancer signaling pathways, industry cost solutions, drug cost containment, bioprocess engineering, biosynthesis, characterization, and drug synthesis. 
+ChemicalQDevice innovates novel cancer drug clinical trial AI analyses regarding organ-specific tumors, clinical decision support, prescription costs, and industry expense. OpenAI, Anthropic, Google, and xAI LLMs are utilized to generate scalable reports, solutions, and visualizations.
 
-OpenAI, Anthropic, Gemini, and xAI scalable direct chat proprietary software are utilized to generate LLM reports and propose detailed analysis. AI governance is employed with relevant software implementations, model bias amplification mitigation, and traceability analyses. 
-
-  
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13273141.svg)](https://doi.org/10.5281/zenodo.13273141)
