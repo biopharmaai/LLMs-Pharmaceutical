@@ -23,4 +23,4 @@ Kawchak K. AI revolution toward the cure of lung adenocarcinoma. Zenodo. 2025; d
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15278152.svg)](https://doi.org/10.5281/zenodo.15278152)
 
----
+
