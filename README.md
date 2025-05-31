@@ -1,4 +1,4 @@
-## Oncology trial AI data fusion
+## Oncology trial data fusion AI
 
  
 ChemicalQDevice innovates novel oncology clinical trial AI applications regarding organ-specific tumors, clinical decision support, prescription costs, and industry expense. OpenAI, Anthropic, Google, and xAI LLMs are utilized to generate scalable reports, solutions, and visualizations.
