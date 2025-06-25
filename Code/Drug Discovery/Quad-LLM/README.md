@@ -9,7 +9,7 @@
   <p>San Diego, CA</p>
   <p>May 29, 2025</p>
   <p>kevink@chemicalqdevice.com</p>
-  <p>Abstract</p>
+  <p><strong>Abstract</strong></p>
 </div>
 
 <div align="left">
