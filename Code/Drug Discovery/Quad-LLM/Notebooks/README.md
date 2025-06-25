@@ -1,4 +1,3 @@
-
 <div align="center">
   <p>10 Year Glioblastoma Clinical Trial Meta-Analyses by Autonomous AI at Scale. <br> Survival, HR, AE, and RoB scored in AI Reports and Charts, including Verifications</p> 
 <div align="center">
@@ -10,7 +9,7 @@
   <p>San Diego, CA</p>
   <p>May 29, 2025</p>
   <p>kevink@chemicalqdevice.com</p>
-  <p>Abstract</p>
+  <p><strong>Abstract</strong></p>
 </div>
 
 <div align="left">
@@ -38,5 +37,6 @@
 Kawchak K. 10 Year Glioblastoma Clinical Trial Meta-Analyses by Autonomous AI at Scale. Survival, HR, AE, and RoB scored in AI Reports and Charts, including Verifications. Zenodo. 2025; doi:10.5281/zenodo.15278152
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15549831.svg)](https://doi.org/10.5281/zenodo.15549831)
+
 
 
