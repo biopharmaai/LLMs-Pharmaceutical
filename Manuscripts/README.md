@@ -1,4 +1,55 @@
 <div align="center">
+  <p>ChatGPT 100,000 Patient 24-Month In Silico Phase III 5-Arm Pancreatic Cancer Clinical Trial Triplicate</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>July 24, 2025</p>
+  <p>kevink@chemicalqdevice.com</p>
+  <p><strong>Abstract</strong></p>
+</div>
+ 
+<div align="left">
+
+**Inquiry:**  Is it possible for ChatGPT to simulate three reproducible 100,000 patient pancreatic ductal adenocarcinoma (PDAC) Phase III clinical trial reports? If so, can the results be internally and externally validated, cross-verified using other AI models, and be compared both clinically and financially to other trials?
+
+**Concept:** 5 arms based on the Daraxonrasib + Mitazalimab + liposomal Irinotecan drug combination, baseline characteristics, and patient archetypes were identified from a prior study: doi.org/10.5281/zenodo.15735068. Six artificial intelligence models were then implemented to address the clinical trial pipeline: o3ph: ChatGPT o3-pro Research, g25p: Google Gemini 2.5 Pro, grk4: Grok 4, grk3: Grok 3 Think, o3pr: ChatGPT o3-pro, and ops4: Opus 4 Extended. o3ph generated the ICH E3-aligned trial reports, log files, plus internal, and external validations. g25p, grk4, grk3, o3pr, and ops 4 provided cross verifications that highlighted trial-to-trial and model-to-model correlations. g25p utilized 24 generations in the study to produce a virtual trials overview, while o3ph provided a meta-analysis of pooled and scored data versus relevant virtual and on-site trials. o3ph also provided a financial assessment and value proposition of USD estimates against Phase II and Phase III studies. ops4 provided visualizations written in Python for the majority of the sections.
+
+**Results:** 100,000 individual patients generated from three separate o3ph conversations followed multiplicative hazard ratios and per-arm monthly hazards set in the prompt. Key variables were independent of each other, which yielded distributions of uncensored results. Log file cumulative effects of the censored 100,000 patients yielded expected results in OS by Arm (A > D > E), ≥G3 AE (A > D > E), and PFS (A > D > E). Baseline characteristics by metric across trials were in close alignment, and internal validations between log files and trial reports exhibited similar performance. External validation vs. a Flatiron Health dataset for OS passed, while ECOG validation saw higher differences. These deviations, along with a KRAS-mutant labeling issue were high, but consistent in magnitude across the three trials.
+
+**Outputs:** In order to consolidate trial information, validations, and cross-verifications, g25p processed 24 of these relevant outputs to create a virtual trials overview. The core trial information, technical specifications, reproducibility, and validation findings provided a concise output needed for subsequent comparisons to trials. The method used to pool the current study with prior studies was accomplished by o3ph utilizing the virtual trials overview alongside online clinical trial data to produce a 9,574 word meta-analysis. Results focused on PRODIGE-4 and NAPOLI-1 trials that were top two in OS, while Arm A was third. However, the Arm D doublet of Daraxonrasib + Mitazalimab was less toxic than the other trials, and was found to be more clinically feasible than FOLFIRINOX in PRODIGE-4.
+
+**Impacts:** The financial assessment and value proposition performed by o3ph and visualized by ops4 placed an estimated  price of $36,330 on the current study (1 user at $150/hr working 60 hrs/wk). Estimates for other virtual trials ranged from $120,000-$600,000, while a real Phase II trial was $20.0M, and the Phase III trial estimate was $100.0M. Time-to decision was fastest for the 100K Triplicate at 1 month, while other studies ranged from 4.5 months to 5.0 years. The AI’s main financial decision was that Arm A (Daraxonrasib + Mitazalimab + liposomal Irinotecan) was not a strong enough candidate, and the results from the current study were estimated to save $19.96M to avoid a clinical trial failure. In addition, a $2.36M burn rate reduction was anticipated, with an overall cost reduction of 99.9997% vs. a Phase III trial per patient.
+
+**Outcome:** The main benefit was that reproducibility was observed across a single trial or multiple trials, while individual patients likely varied based on raw exponential sampling. The o3ph feat was primarily in providing a trial report that was replicable between the other trials performed in separate conversations. Similarly, the g25p model’s processing of 24 outputs to create a virtual trials overview could not me accomplished by any other model due to token limitations. The overview served to inform the final meta-analysis and financial assessment by o3ph, providing tangible comparisons and planning tools for upcoming studies. All work was performed by one user in a 30 day window.
+
+<div align="left">
+
+<br>
+  
+Kawchak, K. (2025). ChatGPT 100,000 Patient 24-Month In Silico Phase III 5-Arm Pancreatic Cancer Clinical Trial Triplicate. Zenodo. https://doi.org/10.5281/zenodo.16415815
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16415815.svg)](https://doi.org/10.5281/zenodo.16415815)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
   <p>End-to-End Pancreatic Ductal Adenocarcinoma Digital Twin Clinical Trial Proposals</p> 
 <div align="center">
 
