@@ -1,4 +1,4 @@
-## Oncology trial data fusion AI
+## Pancreatic oncology trial innovation
 
  
 ChemicalQDevice innovates novel oncology clinical trial simulations based on trial data fusion AI. OpenAI, Google, Anthropic, and xAI large language models are utilized to generate supporting reports, meta-analyses, and financial proposals.
